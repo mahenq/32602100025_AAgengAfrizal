@@ -125,3 +125,8 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 
+#codeigniter 3
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+/vendor/
